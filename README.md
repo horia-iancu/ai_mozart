@@ -1,1 +1,1 @@
-# ai_mozart
+This application creates a piano accompaniment for a poem using neural networks. Sentiment classification is done using [BERT](https://arxiv.org/abs/1810.04805) and the music is generated with [Music Transformer](https://arxiv.org/abs/1809.04281).
